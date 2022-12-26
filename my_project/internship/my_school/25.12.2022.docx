@@ -1,0 +1,13 @@
+                                                           Assigment2 
+
+how to activate developer mode in odoo
+if you would like to add or modify mudule ,you should activate  devolper mode by going to setting and end of odoo's bage you will find three option for activating 
+ 
+what is scaffold
+the way what allow to build your structure's madule easly
+Using Odoo scaffolding we can create the module structure automatically.
+it helps for reducing effort 
+add new module school_managment
+add new model(class) named school.student with field name
+add a root menu for the school module with icon 
+add child menu for student [form - tree]

@@ -1,0 +1,9 @@
+
+how to activate developer mode in odoo
+what is scaffold
+
+add new module school_managment
+add new model(class) named school.student with field name
+add a root menu for the school module with icon 
+add child menu for student [form - tree]
+
